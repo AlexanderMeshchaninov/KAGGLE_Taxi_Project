@@ -12,7 +12,7 @@
 
 Поскольку данные занимают достаточно большой объем их следует скачать отдельно:
 
-[KAGGLE_Taxi_Project](https://disk.yandex.ru/d/jHJxaq3sf47cwg) и поместить в папку Data в проекте.
+[KAGGLE_Taxi_Project](https://disk.yandex.ru/d/VXyI1QuTC0C2FQ)
 
 Список файлов:
 

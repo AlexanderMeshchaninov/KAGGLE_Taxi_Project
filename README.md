@@ -1,5 +1,5 @@
 # New York City Taxi Trip Duration from KAGGLE (Project)
-[] (Images/image_for_readme_kaggle_project.png)
+[] ([Images/image_for_readme_kaggle_project.png](https://github.com/AlexanderMeshchaninov/Screenshots/blob/main/image_for_readme_kaggle_project.png))
 
 ## Примечание:
 Для данной использовались библиотеки определенных версий для python 3.8.10:
